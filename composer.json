@@ -1,5 +1,5 @@
 {
-    "name": "bdelespierre/laravel-blade-linter",
+    "name": "paqtcom/laravel-blade-linter",
     "description": "A simple Blade template syntax checker for Laravel",
     "keywords": [
         "bdelespierre",
@@ -16,8 +16,8 @@
         }
     ],
     "require": {
-        "php": "^7.3 || ^8.0",
-        "illuminate/support": "^8.0"
+        "php": "^7.3|^8.0",
+        "illuminate/support": "^8.0|^9.0"
     },
     "require-dev": {
         "orchestra/testbench": "^6.4",
